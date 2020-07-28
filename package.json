@@ -4,12 +4,16 @@
   "description": "A boilerplate to speed up your design process and help designers & developers collaborate more effectively using Visual Studio Code.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "cd ./Tasks/ && jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.0.0-alpha1"
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "express": "^4.17.1",
+    "puppeteer-core": "^5.2.1"
   }
 }

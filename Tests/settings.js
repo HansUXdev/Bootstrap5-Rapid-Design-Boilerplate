@@ -1,5 +1,4 @@
 let settings = {
-  // args: [`--proxy-server=http=${randProxy}`],
   timeout: 0, 
   headless: false, 
   devtools: false,
