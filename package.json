@@ -1,0 +1,15 @@
+{
+  "name": "Bootstrap5-Rapid-Design-Boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate to speed up your design process and help designers & developers collaborate more effectively using Visual Studio Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd ./Tasks/ && jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1"
+  }
+}
